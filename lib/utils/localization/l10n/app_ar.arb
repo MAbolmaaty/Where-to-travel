@@ -1,0 +1,20 @@
+{
+  "@@locale": "ar",
+
+  "whatToFind": "ما الذي تريد أن تبحث عنه؟",
+  "@whatToFind": {
+    "description": ""
+  },
+  "topDestinations": "الأماكن الشائعة",
+  "@topDestinations": {
+    "description": ""
+  },
+  "seeAll": "الكل",
+  "@seeAll": {
+    "description": ""
+  },
+  "exclusiveHotels": "فنادق حصرية",
+  "@exclusiveHotels": {
+    "description": ""
+  }
+}
